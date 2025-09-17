@@ -1,0 +1,75 @@
+<!doctype html>
+<thead>
+<tr><th>Degree / Course</th><th>Institute / College</th><th>Board / University</th><th>Percentage / CGPA</th><th>Year</th></tr>
+</thead>
+<tbody>
+<tr><td>SSC</td><td>S.P.R.M Blue Convent (E.M) H School</td><td>SSC Border, AP</td><td>96%</td><td>2020</td></tr>
+<tr><td>Intermediate (Bi.P.C)</td><td>Sri Chaityana Junior College</td><td>Intermediate Border, AP</td><td>51.4%</td><td>2022</td></tr>
+<tr><td>Degree</td><td>Aditya Degree College</td><td>Adikavi Nannaya University</td><td>7.0 CGPA</td><td>Pursuing</td></tr>
+</tbody>
+</table>
+</section>
+
+
+<section class="section">
+<h3>Achievements</h3>
+<ul>
+<li>Pearson Meapro certificate</li>
+<li>edX certificate</li>
+<li>TCS certificate</li>
+<li>Alison certificate</li>
+</ul>
+</section>
+
+
+<section class="section">
+<h3>Areas of Interest</h3>
+<ul>
+<li>Learning languages</li>
+<li>Self analysis</li>
+</ul>
+</section>
+
+
+<section class="section">
+<h3>Hobbies</h3>
+<p>Reading books</p>
+</section>
+</main>
+
+
+<aside class="rightcard">
+<div class="section">
+<h3>Personal Details</h3>
+<p><strong>Address:</strong><br>3-3-63, Krishna Rao Street, K. Agraharam, Amalapuram</p>
+<p><strong>Date of Birth:</strong> 02/08/2005</p>
+<p><strong>Gender:</strong> Female</p>
+<p><strong>Marital Status:</strong> Single</p>
+<p><strong>Languages:</strong> Telugu, English</p>
+</div>
+
+
+<div class="section">
+<h3>Strengths</h3>
+<ul>
+<li>Good communication</li>
+</ul>
+</div>
+
+
+<div class="section">
+<h3>Declaration</h3>
+<p>I hereby declare that all the details furnished here are true to the best of my knowledge and belief.</p>
+<p style="margin-top:8px">— P. Kalyani</p>
+</div>
+</aside>
+</div>
+
+
+<footer>
+<div>Portfolio generated from provided resume — for updates or export as a single HTML file, tell me what to change.</div>
+</footer>
+</div>
+</div>
+</body>
+</html>
